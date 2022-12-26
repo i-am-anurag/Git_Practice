@@ -1,2 +1,2 @@
 # Git_class
-https://deepakdvallur.weebly.com/machine-learning-laboratory.html
+https://github.com/mihirkabra/Mobile-Application-Development-3170726-Practical
