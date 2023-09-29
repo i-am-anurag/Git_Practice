@@ -25,3 +25,8 @@ const arr = [50,90,60,180,2740,560,620,10,55,84,98];
 const max = findMax(arr);
 const min = findMin(arr)
 console.log(`The max number is: ${max} and min number is: ${min}`);
+
+module.exports = {
+    findMax,
+    findMin,
+}

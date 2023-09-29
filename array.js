@@ -25,8 +25,12 @@ const insertionSort = (arr) => {
 
 // const arr = [1,2,5,0,25,15,30];
 
-const result = runningSum(arr);
+// const result = runningSum(arr);
+=======
 
+// console.log(`The Result is: ${result}`);
+
+=======
 
 console.log(`The Result is: ${result}`);
 // console.log(`The Result is: ${result}`);
