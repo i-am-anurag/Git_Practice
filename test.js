@@ -28,4 +28,5 @@ console.log(`The max number is: ${max} and min number is: ${min}`);
 
 module.exports = {
     findMax,
+    findMin,
 }
